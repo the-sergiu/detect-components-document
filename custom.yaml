@@ -1,0 +1,12 @@
+path: data/
+train: train/
+val: val/
+
+nc: 5
+names: [
+  "Text",
+  "Title",
+  "List",
+  "Table",
+  "Figure"
+]
